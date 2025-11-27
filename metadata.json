@@ -1,0 +1,7 @@
+{
+  "name": "NeonSight: Cyberpunk Gesture Trainer",
+  "description": "A webcam-based gesture FPS aim trainer with cyberpunk aesthetics. Punch or wave at targets to eliminate them. Features AI-generated mission briefings and performance reviews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
